@@ -9,8 +9,10 @@ Aplicação desenvolvida durante evento nlw. Aplicação que tem por objetivo ge
 
 ## Tecnologias utilizadas
 * Reactjs
-* typescript
-* firebase
+* Typescript
+* SASS
+* sweetalert
+* Firebase
   * firebase auth
   * realtime database
 
