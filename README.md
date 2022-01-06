@@ -7,21 +7,21 @@ Aplicação desenvolvida durante evento nlw. Aplicação que tem por objetivo ge
 
 * link do protótipo no figma https://www.figma.com/file/0irruXMYu6gWcqGXEgzKdf/Letmeask-Copy?node-id=0%3A1
 
-#Tecnologias utilizadas
+## Tecnologias utilizadas
 * Reactjs
 * typescript
 * firebase
   * firebase auth
   * realtime database
 
-#Funcionalidades do react utilizadas
+## Funcionalidades do react utilizadas
 * Hooks
   * useContext
   * useEffect
   * useState
 * react-router-dom
 
-#Alterações particulares realizadas
+## Alterações particulares realizadas
 * Utilização de biblioteca sweetalert2 para mostrar avisos https://sweetalert2.github.io/#download
 * Modificação no fluxo da aplicação para direcionar cada usuário para página correspondente
 * Adicionado quantidade de likes também na página do admin (para que o mesmo consiga ver quais perguntas são mais relevantes)
